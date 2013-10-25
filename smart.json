@@ -4,6 +4,5 @@
   "homepage": "https://github.com/bandini84/meteor-nvd3",
   "author": "bandini84 via waitingkuo",
   "version": "0.1.0",
-  "git": "https://github.com/bandini84/meteor-nvd3.git",
-  "packages": {}
+  "git": "https://github.com/bandini84/meteor-nvd3.git"
 }
