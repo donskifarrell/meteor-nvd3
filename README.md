@@ -1,5 +1,6 @@
 # NVD3.v2 for Meteor
-This was created because it seems there's an error in the other nvd3 packages.  
+This was created because it seems there's an error in the other nvd3 packages. 
+It is a fork of https://github.com/waitingkuo/meteor-nvd3
 
 ## Requirements
 * npm
@@ -15,7 +16,11 @@ This was created because it seems there's an error in the other nvd3 packages.
 
 ## References
 [Meteor](http://docs.meteor.com/)
+
 [Meteorite](http://oortcloud.github.com/meteorite/)
+
 [Atmosphere (Smart Packages)](https://atmosphere.meteor.com/wtf/package)
+
 [NVD3](http://nvd3.org/)
+
 [D3](http://d3js.org)
