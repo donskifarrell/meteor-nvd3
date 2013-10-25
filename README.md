@@ -1,4 +1,4 @@
-# NVD3.v2 for Meteor
+# NVD3_revised for Meteor
 This was created because it seems there's an error in the other nvd3 packages. 
 It is a fork of https://github.com/waitingkuo/meteor-nvd3
 
@@ -10,7 +10,7 @@ It is a fork of https://github.com/waitingkuo/meteor-nvd3
 ## How do I install this?
 1. Install Meteorite `npm install -g meteorite`
 2. Create Your project `mtr create graphapp`
-3. Add nvd3 `mrt add nvd3-v2`
+3. Add nvd3 `mrt add nvd3_revised`
 4. Go graphing
 
 
