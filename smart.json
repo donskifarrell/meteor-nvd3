@@ -1,5 +1,5 @@
 {
-  "name": "nvd3_revised",
+  "name": "nvd3",
   "description": "Re-usable charts for d3.js - v1.1.15b",
   "homepage": "https://github.com/donskifarrell/meteor-nvd3",
   "author": "donskifarrell via bandini84 via waitingkuo",
