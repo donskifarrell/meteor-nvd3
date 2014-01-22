@@ -3,9 +3,16 @@ Package.describe({
 });
 
 Package.on_use(function (api) {
-  api.use('d3', 'client');
+  api.use(['deps', 'd3'], 'client');
   api.add_files([
     'lib/nv.d3.min.js',
     'lib/nv.d3.min.css'
   ], 'client');
+});
+
+Package.on_test(function (api) {
+  api.use('nvd3_revised');
+  api.use('tinytest');
+  api.add_files('lib/nv.d3.min.js', 'client');
+  api.add_files('lib/nv.d3.min.css', 'client');
 });

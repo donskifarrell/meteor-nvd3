@@ -1,8 +1,9 @@
 {
   "name": "nvd3_revised",
-  "description": "Re-usable charts for d3.js",
-  "homepage": "https://github.com/bandini84/meteor-nvd3",
-  "author": "bandini84 via waitingkuo",
-  "version": "0.1.1",
-  "git": "https://github.com/bandini84/meteor-nvd3.git"
+  "description": "Re-usable charts for d3.js - v1.1.15b",
+  "homepage": "https://github.com/donskifarrell/meteor-nvd3",
+  "author": "donskifarrell via bandini84 via waitingkuo",
+  "version": "0.1.2",
+  "git": "https://github.com/donskifarrell/meteor-nvd3.git",
+  "packages": {}
 }
