@@ -1,3 +1,8 @@
+# This is no longer maintained!
+
+Sorry, time constraints have stopped from keeping track of this package. I recommend you look for alternatives on atmospherejs.
+
+
 # NVD3_revised for Meteor
 This was created because it seems there's an error in the other nvd3 packages. 
 It is a fork of https://github.com/waitingkuo/meteor-nvd3
